@@ -1,0 +1,148 @@
+name: Alarm_Control
+widgets:
+- height: 4
+  height_mobile: 4
+  name: Arm System
+  options:
+    frameless: false
+    showLabels: true
+    showThing: false
+  type: Switch
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: aRMED
+  width: 4
+  width_mobile: 4
+  x: 5
+  x_mobile: 2
+  "y": 5
+  y_mobile: 6
+- height: 2
+  height_mobile: 2
+  name: Running
+  options:
+    mode: Color 2
+  type: LED
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: blinkPower
+  width: 2
+  width_mobile: 2
+  x: 0
+  x_mobile: 2
+  "y": 6
+  y_mobile: 0
+- height: 3
+  height_mobile: 2
+  name: ' Kitchen PIR3'
+  options:
+    mode: Both Colors
+    showThing: false
+  type: LED
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: pIR3
+  width: 3
+  width_mobile: 2
+  x: 8
+  x_mobile: 4
+  "y": 0
+  y_mobile: 3
+- height: 3
+  height_mobile: 2
+  name: ' GARAGE PIR4'
+  options:
+    mode: Both Colors
+    showThing: false
+  type: LED
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: pIR4
+  width: 3
+  width_mobile: 2
+  x: 12
+  x_mobile: 6
+  "y": 0
+  y_mobile: 3
+- height: 3
+  height_mobile: 2
+  name: Entry PIR1
+  options:
+    frameless: false
+    mode: Both Colors
+    showThing: false
+  type: LED
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: pIR1
+  width: 3
+  width_mobile: 2
+  x: 0
+  x_mobile: 0
+  "y": 0
+  y_mobile: 3
+- height: 2
+  height_mobile: 2
+  name: Mute Siren
+  options:
+    showLabels: true
+  type: Switch
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: mUTESIREN
+  width: 2
+  width_mobile: 2
+  x: 2
+  x_mobile: 0
+  "y": 12
+  y_mobile: 11
+- height: 2
+  height_mobile: 2
+  name: Alarm
+  options:
+    frameless: false
+    mode: Icons
+    showThing: false
+  type: Status
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: alarmAct
+  width: 2
+  width_mobile: 2
+  x: 13
+  x_mobile: 4
+  "y": 6
+  y_mobile: 0
+- height: 2
+  height_mobile: 2
+  name: SIREN/STROBE
+  options:
+    frameless: false
+    mode: Icons
+    showThing: false
+  type: Status
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: sIRENsTROBEWidget
+  width: 4
+  width_mobile: 3
+  x: 7
+  x_mobile: 3
+  "y": 12
+  y_mobile: 11
+- height: 3
+  height_mobile: 2
+  name: Hall PIR2
+  options:
+    mode: Both Colors
+  type: LED
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: pIR2
+  width: 3
+  width_mobile: 2
+  x: 4
+  x_mobile: 2
+  "y": 0
+  y_mobile: 3
+

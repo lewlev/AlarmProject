@@ -1,0 +1,18 @@
+name: Alarm_History
+widgets:
+- height: 9
+  height_mobile: 9
+  name: Alarm History
+  options:
+    interpolation: line
+  type: Chart
+  variables:
+  - thing_id: ALARM_THING
+    variable_id: alarmHist
+  width: 10
+  width_mobile: 10
+  x: 0
+  x_mobile: 0
+  "y": 0
+  y_mobile: 0
+
