@@ -32,6 +32,8 @@ For the full project description have a look at:
 
 https://github.com/lewlev/AlarmProject/blob/main/AlarmProjectDescriptionV7.pdf
 
-The full source and documentation is at
+The full source and documentation is in Pack2.zip here
 
 https://github.com/lewlev/AlarmProject/blob/main/Pack1.zip
+
+Download and extract to c:\AlarmProject
