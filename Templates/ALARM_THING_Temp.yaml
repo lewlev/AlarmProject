@@ -1,4 +1,4 @@
-name: Test Project PIR
+name: ALARM_THING
 timezone: Australia/Melbourne
 variables:
 - name: AlarmHist
