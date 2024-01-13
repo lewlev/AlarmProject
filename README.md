@@ -1,4 +1,4 @@
-# Alarm Project
+# Simple lowcost ESP32 based Alarm Project 
 ## Part I Alarm Controller
 **Project objective**
 
