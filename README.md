@@ -32,3 +32,7 @@ Sound an alarm.
 For the full project description have a look at:
 
 https://github.com/lewlev/AlarmProject/blob/main/AlarmProjectDescriptionV7.pdf
+
+The full source and documentation is at
+
+https://github.com/lewlev/AlarmProject/blob/main/Pack1.zip
