@@ -13,12 +13,11 @@ With the demise of old PSTN landline phone system, some older home security syst
 * Use a mobile phone for all control and monitoring from anywhere.
 * Connect to an internet based IoT service for monitoring, control and communication with other IoT devices.
 * Monitor up to four sensors and raise an alarm if a  breach of security is detected.
-*  In the event of an alarm, respond in any or all of the following actions:
--     opkppo
-Sound an alarm.
-    Flash a strobe light.
-    Send an alert email
-    Send a push notification to a mobile phone.
+* In the event of an alarm, respond in any or all of the following actions:
+*    Sound an alarm.
+*    Flash a strobe light.
+*    Send an alert email
+*    Send a push notification to a mobile phone
 * Be compliant with relevant regulations regarding limitations to duration of siren on time etc.
 * Behave in a predictable and compliant way in the event that the  internet connection is lost, or a dependent internet service fails.
 * Have the ability to connect wirelessly with other IoT devices to add functionality.
