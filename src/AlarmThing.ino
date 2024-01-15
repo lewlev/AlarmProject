@@ -26,7 +26,6 @@
 //  bool pIR4;                 // Dashboard PIR status indictore (green clear, red alarmed)
 //  bool sIRENsTROBEWidget;    // Dashboard indicator green tick  indicates siren and or strobe currently on  ( ran out of vaiables so had to combine)
 
-*/
 
 #include "driver/gpio.h"
 #include "thingProperties.h"   // Arduino IOT
